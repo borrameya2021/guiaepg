@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Neox">
+    <display-name lang="es">Neox</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210410002500 -0500" stop="20210410004000 -0500" channel="Neox">
+    <title lang="es">Love island: llegando a la isla</title>
+  </programme>
+  <programme start="20210410004000 -0500" stop="20210410024500 -0500" channel="Neox">
+    <title lang="es">Conan el Bárbaro</title>
+  </programme>
+  <programme start="20210410024500 -0500" stop="20210410033500 -0500" channel="Neox">
+    <title lang="es">Play Uzu Nights</title>
+  </programme>
+  <programme start="20210410033500 -0500" stop="20210410042000 -0500" channel="Neox">
+    <title lang="es">Live Casino</title>
+  </programme>
+  <programme start="20210410042000 -0500" stop="20210410053500 -0500" channel="Neox">
+    <title lang="es">Minutos musicales</title>
+  </programme>
+  <programme start="20210410053500 -0500" stop="20210410060000 -0500" channel="Neox">
+    <title lang="es">Schooled</title>
+  </programme>
+  <programme start="20210410060000 -0500" stop="20210410070000 -0500" channel="Neox">
+    <title lang="es">Schooled</title>
+  </programme>
+  <programme start="20210410070000 -0500" stop="20210410094000 -0500" channel="Neox">
+    <title lang="es">Kidz Navidad</title>
+  </programme>
+  <programme start="20210410094000 -0500" stop="20210410095000 -0500" channel="Neox">
+    <title lang="es">Hazte eco</title>
+  </programme>
+  <programme start="20210410095000 -0500" stop="20210410121500 -0500" channel="Neox">
+    <title lang="es">The Middle</title>
+  </programme>
+  <programme start="20210410121500 -0500" stop="20210410153000 -0500" channel="Neox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210410153000 -0500" stop="20210410154500 -0500" channel="Neox">
+    <title lang="es">Love island: llegando a la isla</title>
+  </programme>
+  <programme start="20210410154500 -0500" stop="20210410173000 -0500" channel="Neox">
+    <title lang="es">Como Dios</title>
+  </programme>
+  <programme start="20210410173000 -0500" stop="20210410185500 -0500" channel="Neox">
+    <title lang="es">Hot Shots</title>
+  </programme>
+  <programme start="20210410185500 -0500" stop="20210410202000 -0500" channel="Neox">
+    <title lang="es">Loca academia de policía 7 Misión en Moscú</title>
+  </programme>
+  <programme start="20210410202000 -0500" stop="20210410220000 -0500" channel="Neox">
+    <title lang="es">American pie</title>
+  </programme>
+  <programme start="20210410220000 -0500" stop="20210410234500 -0500" channel="Neox">
+    <title lang="es">Taxi a Gibraltar</title>
+  </programme>
+  <programme start="20210410234500 -0500" stop="20210411011500 -0500" channel="Neox">
+    <title lang="es">Hot Shots 2</title>
+  </programme>
+</tv>
