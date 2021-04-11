@@ -1,0 +1,377 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="La 1 FHD",La 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1 tvg-ID="La 1" tvg-name="La 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_hd.jpg" group-title="TDT",La 1
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48383
+
+#EXTINF:-1 tvg-ID="La 2" tvg-name="La 2 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve2.jpg" group-title="TDT",La 2 FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48386
+
+#EXTINF:-1 tvg-ID="La 2" tvg-name="La 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve2.jpg" group-title="TDT",LA 2
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48385
+
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="24 Horas" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg" group-title="TDT",24 Horas
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48395
+
+#EXTINF:-1 tvg-id="TVG" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="TDT" tvg-name="TVG",TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG 2",TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG Xabarin",TVG Xabarin
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="Telemadrid" tvg-name="Telemadrid FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_madrid_sat.jpg" group-title="TDT",Telemadrid FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48622
+
+#EXTINF:-1 tvg-ID="Telemadrid" tvg-name="TeleMadrid" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_madrid_sat.jpg" group-title="TDT",TeleMadrid
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48674
+
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="Divinity" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/divinity_tv_es.jpg" group-title="TDT",Divinity
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48457
+
+#EXTINF:-1 tvg-ID="Energy" tvg-name="Energy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/energy_tv_es.jpg" group-title="TDT",Energy
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48456
+
+#EXTINF:-1 tvg-ID="Be Mad" tvg-name="Be Mad FHD" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/890.png" group-title="TDT",Be Mad FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48464
+
+#EXTINF:-1 tvg-ID="Be Mad" tvg-name="Be Mad" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/890.png" group-title="TDT",Be Mad
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48463
+
+#EXTINF:-1 tvg-ID="dkiss" tvg-name="DKiss" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/dkiss.jpg" group-title="TDT",DKiss
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48453
+
+#EXTINF:-1 tvg-ID="ten" tvg-name="Ten" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/ten.jpg" group-title="TDT",Ten
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48488
+
+#EXTINF:-1 tvg-ID="Mega" tvg-name="Mega FHD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-mega.jpg" group-title="TDT",Mega FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48426
+
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="Antena 3 FHD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-a3.jpg" group-title="TDT",Antena 3 FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48388
+
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="Antena 3" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-a3.jpg" group-title="TDT",Antena 3
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48387
+
+#EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-neox.jpg" group-title="TDT",Neox
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48465
+
+#EXTINF:-1 tvg-ID="Nova" tvg-name="Nova" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="TDT",Nova
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48466
+
+#EXTINF:-1 tvg-ID="Atreseries" tvg-name="A3Series" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-a3s.jpg" group-title="TDT",A3Series
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48454
+
+#EXTINF:-1 tvg-ID="Telecinco" tvg-name="Telecinco FHD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/media-tele5-hd.jpg" group-title="TDT",Telecinco FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48392
+
+#EXTINF:-1 tvg-ID="Telecinco" tvg-name="Telecinco HD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/media-tele5-hd.jpg" group-title="TDT",Telecinco HD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48391
+
+#EXTINF:-1 tvg-ID="FDF" tvg-name="|ES| FDF" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/media-fdf.jpg" group-title="TDT",FDF
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48452
+
+#EXTINF:-1 tvg-ID="Cuatro" tvg-name="Cuatro FHD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/media-cuatro.jpg" group-title="TDT",Cuatro FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48390
+
+#EXTINF:-1 tvg-ID="Cuatro" tvg-name="Cuatro HD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/media-cuatro.jpg" group-title="TDT",Cuatro HD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48389
+
+#EXTINF:-1 tvg-ID="La Sexta" tvg-name="La Sexta FHD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-lasexta.jpg" group-title="TDT",La Sexta FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48394
+
+#EXTINF:-1 tvg-ID="La Sexta" tvg-name="La Sexta HD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/a3-lasexta.jpg" group-title="TDT",La Sexta HD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48393
+
+#EXTINF:-1 tvg-ID="Trece" tvg-name="Trece" tvg-logo="https://media.tvalacarta.info/canales/256x256/trecetves.png" group-title="TDT",Trece
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48550
+
+#EXTINF:-1 tvg-ID="Trece" tvg-name="Trece" tvg-logo="https://media.tvalacarta.info/canales/256x256/trecetves.png" group-title="TDT",Trece
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48613
+
+#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/net-paramount-channel.jpg" group-title="TDT",Paramount Channel
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48420
+
+#EXTINF:-1 tvg-ID="Somos" tvg-name="Somos FHD" tvg-logo="https://www.axartel.es/assets/img/sliders/tv-canales/somos.jpg" group-title="TDT",Somos FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48419
+
+
+
+
+
+#EXTINF:-1 tvg-ID="es.TCM" tvg-name="|ES| TCM FHD" tvg-logo="http://watchtv.one:8080/logos/tcm.light.svg" group-title="ESPANA -  CINE",|ES| TCM FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48413
+
+#EXTINF:-1 tvg-ID="es.TCM" tvg-name="|ES| TCM" tvg-logo="http://watchtv.one:8080/logos/tcm.light.svg" group-title="ESPANA -  CINE",|ES| TCM
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48412
+
+#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="|ES| MOVISTAR DCINE Ã‘" tvg-logo="http://watchtv.one:8080/logos/movistardcine.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR DCINE Ã‘
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48407
+
+#EXTINF:-1 tvg-ID="#0.es" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR 0# FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48398
+
+#EXTINF:-1 tvg-ID="Movistar.es" tvg-name="|ES| MOVISTAR 0#" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR 0#
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48397
+
+#EXTINF:-1 tvg-ID="es.Movistar Estrenos" tvg-name="|ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://watchtv.one:8080/logos/movistarestrenos.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48400
+
+#EXTINF:-1 tvg-ID="es.Movistar Estrenos" tvg-name="|ES| MOVISTAR ESTRENOS" tvg-logo="http://watchtv.one:8080/logos/movistarestrenos.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48399
+
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="|ES| MOVISTAR ACCION FHD" tvg-logo="http://watchtv.one:8080/logos/movistaraccion.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR ACCION FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48402
+
+#EXTINF:-1 tvg-ID="es.Movistar AcciÃ³n" tvg-name="|ES| MOVISTAR ACCION" tvg-logo="http://watchtv.one:8080/logos/movistaraccion.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR ACCION
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48401
+
+#EXTINF:-1 tvg-ID="es.Movistar Comedia" tvg-name="|ES| MOVISTAR COMEDIA FHD" tvg-logo="http://watchtv.one:8080/logos/movistarcomedia.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR COMEDIA FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48404
+
+#EXTINF:-1 tvg-ID="es.Movistar Comedia" tvg-name="|ES| MOVISTAR COMEDIA" tvg-logo="http://watchtv.one:8080/logos/movistarcomedia.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR COMEDIA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48403
+
+#EXTINF:-1 tvg-ID="es.M. Drama" tvg-name="|ES| MOVISTAR DRAMA FHD" tvg-logo="http://watchtv.one:8080/logos/movistardrama.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR DRAMA FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48406
+
+#EXTINF:-1 tvg-ID="es.M. Drama" tvg-name="|ES| MOVISTAR DRAMA" tvg-logo="http://watchtv.one:8080/logos/movistardrama.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR DRAMA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48405
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR CINEDOC&ROLL" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR CINEDOC&ROLL
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48408
+
+#EXTINF:-1 tvg-ID="ES| MOVISTAR SERIES HD" tvg-name="|ES| MOVISTAR SERIES FHD" tvg-logo="http://watchtv.one:8080/logos/movistarseries.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48428
+
+#EXTINF:-1 tvg-ID="ES| MOVISTAR SERIES HD" tvg-name="|ES| MOVISTAR SERIES" tvg-logo="http://watchtv.one:8080/logos/movistarseries.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48427
+
+#EXTINF:-1 tvg-ID="ES| MOVISTAR SERIESMANIA" tvg-name="|ES| MOVISTAR SERIESMANIA FHD" tvg-logo="http://watchtv.one:8080/logos/movistarseriesmania.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIESMANIA FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48430
+
+#EXTINF:-1 tvg-ID="ES| MOVISTAR SERIESMANIA" tvg-name="|ES| MOVISTAR SERIESMANIA" tvg-logo="http://watchtv.one:8080/logos/movistarseriesmania.light.svg" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIESMANIA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48429
+
+#EXTINF:-1 tvg-ID="ES| FOX HD" tvg-name="|ES| FOX FHD" tvg-logo="http://watchtv.one:8080/logos/fox.default.svg" group-title="ESPANA -  CINE",|ES| FOX FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48434
+
+#EXTINF:-1 tvg-ID="ES| FOX HD" tvg-name="|ES| FOX" tvg-logo="http://watchtv.one:8080/logos/fox.default.svg" group-title="ESPANA -  CINE",|ES| FOX
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48433
+
+#EXTINF:-1 tvg-ID="ES| FOX LIFE HD" tvg-name="|ES| FOX LIFE FHD" tvg-logo="http://watchtv.one:8080/logos/foxlife.default.svg" group-title="ESPANA -  CINE",|ES| FOX LIFE FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48436
+
+#EXTINF:-1 tvg-ID="ES| FOX LIFE HD" tvg-name="|ES| FOX LIFE" tvg-logo="http://watchtv.one:8080/logos/foxlife.default.svg" group-title="ESPANA -  CINE",|ES| FOX LIFE
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48435
+
+#EXTINF:-1 tvg-ID="es.AXN" tvg-name="|ES| AXN FHD" tvg-logo="http://watchtv.one:8080/logos/axn.light.svg" group-title="ESPANA -  CINE",|ES| AXN FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48438
+
+#EXTINF:-1 tvg-ID="es.AXN" tvg-name="|ES| AXN" tvg-logo="http://watchtv.one:8080/logos/axn.light.svg" group-title="ESPANA -  CINE",|ES| AXN
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48437
+
+#EXTINF:-1 tvg-ID="ES| AXN WHITE HD" tvg-name="|ES| AXN WHITE FHD" tvg-logo="http://watchtv.one:8080/logos/axnwhite.light.svg" group-title="ESPANA -  CINE",|ES| AXN WHITE FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48440
+
+#EXTINF:-1 tvg-ID="ES| AXN WHITE HD" tvg-name="|ES| AXN WHITE" tvg-logo="http://watchtv.one:8080/logos/axnwhite.light.svg" group-title="ESPANA -  CINE",|ES| AXN WHITE
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48439
+
+#EXTINF:-1 tvg-ID="es.Hollywood" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="http://watchtv.one:8080/logos/hollywood.light.png" group-title="ESPANA -  CINE",|ES| HOLLYWOOD FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48411
+
+#EXTINF:-1 tvg-ID="es.Hollywood" tvg-name="|ES| HOLLYWOOD" tvg-logo="http://watchtv.one:8080/logos/hollywood.light.png" group-title="ESPANA -  CINE",|ES| HOLLYWOOD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48410
+
+#EXTINF:-1 tvg-ID="es.Calle 13" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://watchtv.one:8080/logos/calle13.light.svg" group-title="ESPANA -  CINE",|ES| CALLE 13 FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48432
+
+#EXTINF:-1 tvg-ID="es.Calle 13" tvg-name="|ES| CALLE 13" tvg-logo="http://watchtv.one:8080/logos/calle13.light.svg" group-title="ESPANA -  CINE",|ES| CALLE 13
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48431
+
+#EXTINF:-1 tvg-ID="es.TNT" tvg-name="|ES| TNT FHD" tvg-logo="http://watchtv.one:8080/logos/tnt.default.svg" group-title="ESPANA -  CINE",|ES| TNT FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48444
+
+#EXTINF:-1 tvg-ID="es.TNT" tvg-name="|ES| TNT" tvg-logo="http://watchtv.one:8080/logos/tnt.default.svg" group-title="ESPANA -  CINE",|ES| TNT
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48443
+
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="|ES| AMC FHD" tvg-logo="http://watchtv.one:8080/logos/amc.light.svg" group-title="ESPANA -  CINE",|ES| AMC FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48442
+
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="|ES| AMC" tvg-logo="http://watchtv.one:8080/logos/amc.light.svg" group-title="ESPANA -  CINE",|ES| AMC
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48441
+
+#EXTINF:-1 tvg-ID="CosmopolitanHD.es" tvg-name="|ES| COSMOPOLITAN FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| COSMOPOLITAN FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48448
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| COSMOS" tvg-logo="http://watchtv.one:8080/logos/cosmo.default.svg" group-title="ESPANA -  CINE",|ES| COSMOS
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48447
+
+#EXTINF:-1 tvg-ID="es.SYFY" tvg-name="|ES| SYFY FHD" tvg-logo="http://watchtv.one:8080/logos/syfy.light.svg" group-title="ESPANA -  CINE",|ES| SYFY FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48446
+
+#EXTINF:-1 tvg-ID="es.SYFY" tvg-name="|ES| SYFY" tvg-logo="http://watchtv.one:8080/logos/syfy.light.svg" group-title="ESPANA -  CINE",|ES| SYFY
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48445
+
+#EXTINF:-1 tvg-ID="es.Comedy Central" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://watchtv.one:8080/logos/comedycentral.white.svg" group-title="ESPANA -  CINE",|ES| COMEDY CENTRAL FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48450
+
+#EXTINF:-1 tvg-ID="es.Comedy Central" tvg-name="|ES| COMEDY CENTRAL" tvg-logo="http://watchtv.one:8080/logos/comedycentral.white.svg" group-title="ESPANA -  CINE",|ES| COMEDY CENTRAL
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48449
+
+#EXTINF:-1 tvg-ID="es.Sundance" tvg-name="|ES| SUNDANCE FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| SUNDANCE FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48415
+
+#EXTINF:-1 tvg-ID="es.Sundance" tvg-name="|ES| SUNDANCE" tvg-logo="" group-title="ESPANA -  CINE",|ES| SUNDANCE
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48414
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMAX" tvg-logo="http://watchtv.one:8080/logos/dmax.white.svg" group-title="ESPANA -  TDT",|ES| DMAX
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48487
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMAX" tvg-logo="http://watchtv.one:8080/logos/dmax.white.svg" group-title="ESPANA -  TDT",|ES| DMAX
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48487
+
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="|ES| DISCOVERY CHANNEL" tvg-logo="http://watchtv.one:8080/logos/discoverychannel.light.svg" group-title="ESPANA -  CULTURA",|ES| DISCOVERY CHANNEL
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48481
+
+#EXTINF:-1 tvg-ID="es.National Geographic" tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://watchtv.one:8080/logos/nationalgeographic.light.svg" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAPHIC FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48484
+
+#EXTINF:-1 tvg-ID="es.National Geographic" tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-logo="http://watchtv.one:8080/logos/nationalgeographic.light.svg" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAPHIC
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48483
+
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48486
+
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-logo="" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAFIC WILD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48485
+
+#EXTINF:-1 tvg-ID="ES| ODISEA" tvg-name="|ES| ODISEA" tvg-logo="" group-title="ESPANA -  CULTURA",|ES| ODISEA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48482
+
+#EXTINF:-1 tvg-ID="es.Historia" tvg-name="|ES| HISTORIA FHD" tvg-logo="http://watchtv.one:8080/logos/historia.light.svg" group-title="ESPANA -  CULTURA",|ES| HISTORIA FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48480
+
+#EXTINF:-1 tvg-ID="es.Historia" tvg-name="|ES| HISTORIA" tvg-logo="http://watchtv.one:8080/logos/historia.light.svg" group-title="ESPANA -  CULTURA",|ES| HISTORIA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48479
+
+#EXTINF:-1 tvg-ID="es.Canal Decasa" tvg-name="|ES| DECASA FHD" tvg-logo="" group-title="ESPANA - ESTILO DE VIDA",|ES| DECASA FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48460
+
+#EXTINF:-1 tvg-ID="es.Canal Decasa" tvg-name="|ES| DECASA" tvg-logo="" group-title="ESPANA - ESTILO DE VIDA",|ES| DECASA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48459
+
+#EXTINF:-1 tvg-ID="es.Blaze" tvg-name="|ES| BLAZE" tvg-logo="http://watchtv.one:8080/logos/blaze.default.svg" group-title="ESPANA - ESTILO DE VIDA",|ES| BLAZE
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48489
+
+#EXTINF:-1 tvg-ID="es.Viajar" tvg-name="|ES| VIAJAR FHD" tvg-logo="http://watchtv.one:8080/logos/viajar.default.png" group-title="ESPANA -  CULTURA",|ES| VIAJAR FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48492
+
+#EXTINF:-1 tvg-ID="es.Viajar" tvg-name="|ES| Viajar" tvg-logo="http://watchtv.one:8080/logos/viajar.default.png" group-title="ESPANA -  CULTURA",|ES| Viajar
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48490
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="|ES| MOVISTAR DISNEY" tvg-logo="http://watchtv.one:8080/logos/movistardisney.light.svg" group-title="ESPANA -  NINOS",|ES| MOVISTAR DISNEY
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48467
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Disney+" tvg-logo="http://watchtv.one:8080/logos/disneyplus.light.svg" group-title="ESPANA -  CINE",|ES| Disney+
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/64410
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CLAN FHD" tvg-logo="" group-title="ESPANA -  TDT",|ES| CLAN FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48472
+
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="|ES| CLAN" tvg-logo="" group-title="ESPANA -  TDT",|ES| CLAN
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48471
+
+#EXTINF:-1 tvg-ID="es.Disney Channel" tvg-name="|ES| DISNEY CHANNEL" tvg-logo="http://watchtv.one:8080/logos/disneychannel.white.svg" group-title="ESPANA -  NINOS",|ES| DISNEY CHANNEL
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48470
+
+#EXTINF:-1 tvg-ID="es.Boing" tvg-name="|ES| BOING" tvg-logo="http://watchtv.one:8080/logos/boing.default.svg" group-title="ESPANA -  NINOS",|ES| BOING
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48473
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="|ES| XTRM FHD" tvg-logo="http://watchtv.one:8080/logos/xtrm.default.svg" group-title="ESPANA -  CINE",|ES| XTRM FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48418
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 1 Accion" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 1 Accion
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48421
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 2 ANIMACION" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 2 ANIMACION
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48422
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 3 CIENCIA FICCION" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 3 CIENCIA FICCION
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/60293
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 4 CRIMEN" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 4 CRIMEN
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48423
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 5 TERRO" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 5 TERRO
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48424
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 6 DRAMA" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 6 DRAMA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48425
+
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="|ES| MOVISTAR CINEDOC&ROLL FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR CINEDOC&ROLL FHD
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/48409
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TV3 Cat" tvg-logo="" group-title="ESPANA -  TDT",|ES| TV3 Cat
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77777
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| 3/24 cat" tvg-logo="" group-title="ESPANA -  TDT",|ES| 3/24 cat
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77778
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 7 COMEDIA" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 7 COMEDIA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77932
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 8 ROMANCE" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 8 ROMANCE
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77933
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 9 FAMILIA" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA 9 FAMILIA
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77934
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA STAR WARS" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA STAR WARS
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77935
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA HARRY POTTER" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA HARRY POTTER
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77936
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA X-MEN" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA X-MEN
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77937
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA PLANETA DE LOS SIMIOS" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA PLANETA DE LOS SIMIOS
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77938
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA Agente 007" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA Agente 007
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77939
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA SAW" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TAQUILLA SAW
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77940
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TRIOLOGIA SEÑOR DE LOS ANILLOS" tvg-logo="" group-title="ESPANA -  A LA CARTA",|ES| TRIOLOGIA SEÑOR DE LOS ANILLOS
+http://mars.golemflixer.com:8080/N707pt4tCXQj/325447031639/77941
+
